@@ -11,7 +11,7 @@ Please note that this repository is for personal learning and research purposes 
 
 
 
-Chinese 
+{Chinese}
 这是一个用于储存软件测试相关PDF文档的入门文档仓库。该仓库包含各种软件测试相关的PDF文档，包括但不限于软件测试基础知识、黑盒测试、白盒测试、自动化测试、性能测试、安全测试等方面的内容。
 
 如果您是一位软件测试新手，或者正在寻找软件测试相关的入门文档，那么这个仓库非常适合您。您可以通过以下步骤访问该仓库：
